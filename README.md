@@ -1,7 +1,7 @@
 
 ---
 
-# Paddy Leaf Disease Detection Using SVM Classifier
+# Leaf Disease Detection Using SVM Classifier
 
 ## Objective
 The aim of this project is to develop a system for detecting paddy leaf diseases from images. This involves identifying the diseased portions of the leaves, extracting relevant features, and utilizing SVM classifier for recognition.
